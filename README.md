@@ -14,6 +14,14 @@ Natural language commands drive vision-based block detection and robot manipulat
 
 ---
 
+## 📸 Detection Preview
+
+![Block Detection](capture_scene.png)
+
+*HSV-based block detection: each block is labeled with color, ID, and pixel coordinates.*
+
+---
+
 ## ✨ Features
 
 - 🗣️ **Natural language control** — type commands like *"put blue1 on top of red1"*
