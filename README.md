@@ -10,7 +10,7 @@ Natural language commands drive vision-based block detection and robot manipulat
 
 | Stack on top | Place beside |
 |---|---|
-| [Watch on YouTube](https://youtube.com/shorts/j0u11w9HXY?si=QoA3Bu8lpPHqlmm5) | [Watch on YouTube](https://youtube.com/shorts/vbGWtz7LmmM?si=DYqlFQts0YNcR50B) |
+| [Watch on YouTube]([)](https://youtube.com/shorts/j0u11w9H-XY?si=4FRyX-oCsNaTOQuM) | [Watch on YouTube](https://youtube.com/shorts/vbGWtz7LmmM?si=DYqlFQts0YNcR50B) |
 
 ---
 
